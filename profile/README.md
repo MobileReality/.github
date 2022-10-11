@@ -3,6 +3,8 @@
 
 It's a pleasure to see you here!
 
+![banner](./assets/banner.jpg)
+
 If you would like to check our work you can see repos under this profile.
 
 Our open source projects:
