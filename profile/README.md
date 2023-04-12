@@ -23,8 +23,8 @@ Our boilerplates:
 Our smart contracts:
 * [NFT Reality](https://github.com/MobileReality/nft-reality-contracts)
 
-If you have any questions please don't hesitate to send us email to office@mobilereality.pl !
+If you have any questions please don't hesitate to send us email to hello@themobilereality.com!
 
-Check our team and website here: https://mobilereality.pl
+Check our team and website here: https://themobilereality.com
 
 
