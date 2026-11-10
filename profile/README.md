@@ -10,6 +10,7 @@ Official [make.com](https://www.make.com) Partner with 75+ production deployment
 
 ## AI and agents
 
+* [Lantern](https://github.com/MobileReality/lantern) — open-source desktop app that makes your project the whole context for your AI. It maps a project into a graph, helps you plan changes, reviews pull requests with generated flows and a reason for every changed file, and keeps your AI assistant sessions in one place. Works with Claude Code and Codex. macOS build is signed and notarized. [Download](https://github.com/MobileReality/lantern/releases/latest) · [Docs](https://docs.thelantern.dev)
 * [MDMA](https://github.com/MobileReality/mdma) — open-source generative UI engine. Your LLM answers with interactive components (forms, tables, approval gates, charts, webhooks) instead of plain text. Ships with an MCP server and an Agent Skill, deterministic Markdown + YAML parsing, and 98% reliability across GPT, Claude, Gemini, and Llama.
 * [Mobile Reality Skills](https://github.com/MobileReality/mobile-reality-skills) — distributable agent skills for the team, for Claude Code and Codex on Windows, macOS, and Ubuntu. Install via `npx skills`.
 
